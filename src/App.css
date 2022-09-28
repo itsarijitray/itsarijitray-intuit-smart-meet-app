@@ -1,0 +1,44 @@
+.home-page{
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid rgb(55, 254, 55);
+}
+
+.building-data{
+  display: flex;
+  flex-direction: column;
+}
+
+.add-meeting-btn{
+  width: 100%;
+  background-color: rgba(37, 37, 250, 0.674);
+}
+
+.add-meeting-form {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+}
+
+.input-item {
+  width: 100%;
+}
+
+.metadata-fields {
+  border: 5px solid black;
+  margin-top: 2%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.header {
+  text-align: center;
+}
+
+select {
+  width: 100%;
+}
+
+table {
+  border-spacing: 1rem;
+}
